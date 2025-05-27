@@ -1,0 +1,32 @@
+    body {
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+
+    .container {
+    text-align: center;
+    }
+
+    canvas {
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    }
+
+    .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    }
+
+    button {
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    }
